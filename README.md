@@ -1,2 +1,3 @@
 # cancer-detection
-Creating a model to detect lung cancer
+Objective: Create a model to detect lung cancer
+Will use Data Science, Artificial Intelligence, and Machine Learning concepts
